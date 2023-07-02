@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.fb8ca949.css",
-    "main.js": "/website/static/js/main.42c88316.js",
+    "main.css": "/website/static/css/main.736c604d.css",
+    "main.js": "/website/static/js/main.589b31f2.js",
     "static/js/787.d8fad87e.chunk.js": "/website/static/js/787.d8fad87e.chunk.js",
+    "static/media/material-symbols-rounded.woff2": "/website/static/media/material-symbols-rounded.1249b85af0fe8f777609.woff2",
+    "static/media/material-symbols-outlined.woff2": "/website/static/media/material-symbols-outlined.313135102bd9112d68c1.woff2",
+    "static/media/material-symbols-sharp.woff2": "/website/static/media/material-symbols-sharp.4f8f6d31e482bc7bff32.woff2",
     "static/media/background.png": "/website/static/media/background.b640e6ece92c87feec59.png",
-    "static/media/vegan.jpg": "/website/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
-    "static/media/multiplePizzas.jpeg": "/website/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
-    "static/media/logo.png": "/website/static/media/logo.de0707a9bc0619d972f0.png",
-    "static/media/expensive.jpg": "/website/static/media/expensive.6449ceefce083d18dfef.jpg",
-    "static/media/pepperoni.jpg": "/website/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
-    "static/media/pineapple.jpg": "/website/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
-    "static/media/margherita.jpg": "/website/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
-    "static/media/pedrotechspecial.jpg": "/website/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "static/media/multiplePizzas.png": "/website/static/media/multiplePizzas.f01999a4315deb20557b.png",
+    "static/media/logo.png": "/website/static/media/logo.92449bad2f770883b460.png",
+    "static/media/web--dev.jpg": "/website/static/media/web--dev.b312e507be78bda1c635.jpg",
+    "static/media/social.jfif": "/website/static/media/social.993ab07c59d056f75431.jfif",
+    "static/media/performance.jfif": "/website/static/media/performance.ce25a2193c3a0e665161.jfif",
+    "static/media/training.jfif": "/website/static/media/training.92189e7dda5c1577d53c.jfif",
     "static/media/contact.jfif": "/website/static/media/contact.b0dd507621f15b7df9e2.jfif",
+    "static/media/graphic.jfif": "/website/static/media/graphic.b5e8138ff648f83ec1da.jfif",
+    "static/media/video.jfif": "/website/static/media/video.328c7cffb9487fe4721c.jfif",
+    "static/media/poster.jfif": "/website/static/media/poster.37119b5eb04c483fbd7b.jfif",
     "index.html": "/website/index.html",
-    "main.fb8ca949.css.map": "/website/static/css/main.fb8ca949.css.map",
-    "main.42c88316.js.map": "/website/static/js/main.42c88316.js.map",
+    "main.736c604d.css.map": "/website/static/css/main.736c604d.css.map",
+    "main.589b31f2.js.map": "/website/static/js/main.589b31f2.js.map",
     "787.d8fad87e.chunk.js.map": "/website/static/js/787.d8fad87e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb8ca949.css",
-    "static/js/main.42c88316.js"
+    "static/css/main.736c604d.css",
+    "static/js/main.589b31f2.js"
   ]
 }
