@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.736c604d.css",
-    "main.js": "/website/static/js/main.8313b93b.js",
+    "main.css": "/website/static/css/main.45ea2e68.css",
+    "main.js": "/website/static/js/main.777700c7.js",
     "static/js/787.d8fad87e.chunk.js": "/website/static/js/787.d8fad87e.chunk.js",
+    "static/media/try.mp4": "/website/static/media/try.38e41df615b17d7d6997.mp4",
     "static/media/material-symbols-rounded.woff2": "/website/static/media/material-symbols-rounded.1249b85af0fe8f777609.woff2",
     "static/media/material-symbols-outlined.woff2": "/website/static/media/material-symbols-outlined.313135102bd9112d68c1.woff2",
     "static/media/material-symbols-sharp.woff2": "/website/static/media/material-symbols-sharp.4f8f6d31e482bc7bff32.woff2",
@@ -17,12 +18,12 @@
     "static/media/video.jfif": "/website/static/media/video.328c7cffb9487fe4721c.jfif",
     "static/media/poster.jfif": "/website/static/media/poster.37119b5eb04c483fbd7b.jfif",
     "index.html": "/website/index.html",
-    "main.736c604d.css.map": "/website/static/css/main.736c604d.css.map",
-    "main.8313b93b.js.map": "/website/static/js/main.8313b93b.js.map",
+    "main.45ea2e68.css.map": "/website/static/css/main.45ea2e68.css.map",
+    "main.777700c7.js.map": "/website/static/js/main.777700c7.js.map",
     "787.d8fad87e.chunk.js.map": "/website/static/js/787.d8fad87e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.736c604d.css",
-    "static/js/main.8313b93b.js"
+    "static/css/main.45ea2e68.css",
+    "static/js/main.777700c7.js"
   ]
 }
